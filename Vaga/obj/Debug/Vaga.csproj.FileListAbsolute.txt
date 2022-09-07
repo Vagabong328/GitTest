@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Vaga\Vaga\bin\Debug\Vaga.exe.config
+C:\Users\Администратор\source\repos\Vaga\Vaga\bin\Debug\Vaga.exe
+C:\Users\Администратор\source\repos\Vaga\Vaga\bin\Debug\Vaga.pdb
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.g.resources
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.exe
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.pdb
