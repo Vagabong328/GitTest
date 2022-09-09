@@ -12,3 +12,4 @@ C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.exe
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.pdb
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.AssemblyReference.cache
