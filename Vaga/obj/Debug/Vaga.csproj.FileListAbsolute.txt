@@ -12,4 +12,10 @@ C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.exe
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.pdb
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Otrasl.g.cs
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Otrasl.baml
 C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Vaga.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Robo.g.cs
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Robo.baml
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Page1.g.cs
+C:\Users\Администратор\source\repos\Vaga\Vaga\obj\Debug\Page1.baml
