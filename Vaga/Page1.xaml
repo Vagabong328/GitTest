@@ -17,7 +17,7 @@
         <FlowDocumentScrollViewer x:Name="docViewer" Grid.RowSpan="2">
             <FlowDocument>
                 <Paragraph TextAlignment="Left" FontSize="15">
-                    gjkjsgk jsd fjf gjgk jgfggg gfg bnvjkhj rhek jhek jhkjhg
+                    gjkjsgk jsd fjf gjgk jgfggg gfg bnvjkhj rhek jhek 
                 </Paragraph>
             </FlowDocument>
         </FlowDocumentScrollViewer>
